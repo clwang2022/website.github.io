@@ -40,5 +40,11 @@
     "items": [
       "/posts/blog1/indext.html"
     ]
+  },
+  {
+    "listing": "/contact.html",
+    "items": [
+      "/posts/blog1/indext.html"
+    ]
   }
 ]
