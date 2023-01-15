@@ -3,9 +3,9 @@ project:
   output-dir: docs
   
 website:
-  title: "Environmental Health Lab"
+  title: "Chenglong Wang"
   navbar:
-    left:
+    Left:
       - href: index.qmd
         text: Home
       - href: blog.qmd
@@ -24,12 +24,12 @@ website:
           - about.qmd
       - icon: github
         href: https://github.com/my_user_name
-      - icon: twetter
+      - icon: twitter
         href: https://twitter.com/my_user_name
      
 format:
   html:
-    theme: Yeti
+    theme: litera
     css: styles.css
     toc: true
 

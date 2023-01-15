@@ -2,16 +2,16 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Environmental Health Lab",
+    "title": "Chenglong Wang",
     "section": "",
     "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Environmental Health Lab",
+    "title": "Chenglong Wang",
     "section": "",
-    "text": "Environmental Health Lab"
+    "text": "is multidisciplinary researecher"
   },
   {
     "objectID": "Research.html",
@@ -19,5 +19,19 @@
     "title": "website",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Chenglong Wang",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Chenglong Wang",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]
