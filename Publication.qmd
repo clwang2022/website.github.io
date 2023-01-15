@@ -1,0 +1,33 @@
+---
+listing:
+  contents: posts
+  type: default
+---
+
+## Selected Publications (\* corresponding author)
+
+**Wang,C.L.\***, Shen, J. (2022). Settlement intention of migrants in urban China: The effects of labor-market performance, employment status, and social integration。 ***Applied Geography***, 147, 102773.
+
+**Wang, C.L.\***,Shen, J.(2021).How Subjective Economic Status Matters: The Reference-Group Effect on Migrants' Settlement Intention in Urban China. ***Asian Population Studies***, 1-19.
+
+**Wang,C.L.**, Shen, J., Liu, Y. (2021). Administrative Level, City Tier, And Air Quality: Contextual Determinants of Hukou Conversion for Migrants in China. ***Computational Urban Science***, 1(1): 1-16.
+
+**Wang,C.L.**, Liu, H., Zhang, M.T. (2020). Exploring The Mechanism of Border Effect on Urban Land Expansion: A Case Study of Beijing-Tianjin-Hebei Region in China. ***Land Use Policy***, 92: 104424.
+
+**Wang,C.L.**, Liu, H., Zhang, M.T., Wei, Z.C. (2018). The Border Effect on Urban Land Expansion in China: The Case of Beijing-Tianjin-Hebei Region. ***Land Use Policy***, 78: 287-294.
+
+**Wang,C.L.**, Liu, H., Zhang, M.T. (2016). The Influence of Administrative Boundary on The Spatial Expansion of Urban Land: A Case Study of Beijing-Tianjin-Hebei Urban Agglomeration. ***Geographical Research** (Chinese periodical)*, 35(1), 173-183. (**Frontrunner 5000 award,** **Top 1% highly citied Chinese research paper in the field**)
+
+**Wang, C. L.**, Liu, H., Zhang, M.T. (2016). The Analysis of Border Effect of Urban Land Based on Structural Equation Modelling: A Case Study of Beijing-Tianjin-Hebei Agglomeration. ***Journal of Natural Resources** (Chinese periodical)*, 31(7), 1127-1137.
+
+**Wang, C.L.**, Liu, H., Zhang, M.T. (2016). Progress And Prospects of Studies on Border Effect. ***Progress in Geography** (Chinese periodical)*, 35(9): 1109-1118.
+
+**Wang, C.L.,** Liu, H. (2016). Regional Disparity and Evolutive Characteristics Of FDI in Shandong Province, China. ***Areal Research and Development** (Chinese periodical)*, 35(1): 70-75.
+
+Zhang, M.T., Wang, C.J., **Wang, C.L.** (2016). Regional Evolution, Function Evolvement and Driving Factors in The Development of Shanghai Port. ***Geographical Research** (Chinese periodical)*, 35(9): 1767-1782.
+
+Zhang, M.T., Wang, C.J., **Wang, C.L.** (2016). Scale Distribution Characteristics and Evolution of Port's Iron Ore Transport in China. ***Economic Geography** (Chinese periodical)*, 36(8): 99-105.
+
+Liu, H., YEERKEN, W., **Wang, C.L.** (2015). Impacts of The Belt and Road Initiative on The Spatial Pattern of Territory Development in China. ***Progress in Geography** (Chinese periodical)*, 34(5): 545-553.
+
+Zhou, M.H., Yang, C.X., **Wang, C.L.**, Liu, Y. (2019). Spatial Planning of Primary and Secondary Schools Under the Intensive Land Use Strategy \-- A Case Study of Futian District, Shenzhen City. 2019 Proceedings of China Urban Planning Annual Conference.

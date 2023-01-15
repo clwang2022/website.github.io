@@ -1,0 +1,26 @@
+---
+title: "Teaching Experiences"
+listing:
+  type: default
+  contents: posts
+  #sort: "date desc"
+  categories: False
+---
+
+### University of Toronto
+
+Guest Lecturer, Applied Spatial Statistics for Public Health Data (Term 2, 2022-2023)
+
+Teaching Assistant, Spatial Epidemiology (Term 1, 2022-2023)
+
+### The Chinese University of Hong Kong
+
+Teaching Assistant, Urban Geography (Term 1, 2017-2018; Term 1, 2020-2021)
+
+Teaching Assistant, Geography of China (Term 2, 2017-2018; Term 2, 2018-2019)
+
+Teaching Assistant, Population and Migration (Term 2, 2018-2019; Term 2, 2020-2021)
+
+Teaching Assistant, China Jiangxi Field Trip (Term 1, 2018-2019)
+
+Teaching Assistant, Urban Form, Sense of Place and Well-being (Term 2, 2020-2021)

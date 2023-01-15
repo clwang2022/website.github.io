@@ -15,14 +15,14 @@ website:
       #   text: Blog
       - href: Research.qmd
         text: Project
-      - href: publication.qmd
+      - href: Publication.qmd
         text: Publication
       - href: teaching.qmd
         text: Teaching
+      - href: talk.qmd
+        text: Presentation & Talk
       - href: award.qmd
-        text: Award 
-      - href: service.qmd
-        text: Service
+        text: Award & Service 
       - href: contact.qmd
         text: Contact
       #- text: "More"
@@ -40,7 +40,7 @@ website:
      
 format:
   html:
-    theme: litera
+    theme: default
     css: styles.css
     toc: true
 

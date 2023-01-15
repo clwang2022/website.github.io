@@ -10,5 +10,35 @@
     "items": [
       "/posts/blog1/indext.html"
     ]
+  },
+  {
+    "listing": "/publication.html",
+    "items": [
+      "/posts/blog1/indext.html"
+    ]
+  },
+  {
+    "listing": "/Publication.html",
+    "items": [
+      "/posts/blog1/indext.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/posts/blog1/indext.html"
+    ]
+  },
+  {
+    "listing": "/talk.html",
+    "items": [
+      "/posts/blog1/indext.html"
+    ]
+  },
+  {
+    "listing": "/award.html",
+    "items": [
+      "/posts/blog1/indext.html"
+    ]
   }
 ]

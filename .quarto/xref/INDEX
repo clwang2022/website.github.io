@@ -10,5 +10,17 @@
   },
   "Research.qmd": {
     "Research.html": "8d69e41a"
+  },
+  "Publication.qmd": {
+    "Publication.html": "807c940b"
+  },
+  "teaching.qmd": {
+    "teaching.html": "531ef758"
+  },
+  "talk.qmd": {
+    "talk.html": "804a6ad3"
+  },
+  "award.qmd": {
+    "award.html": "02d640a2"
   }
 }
