@@ -19,8 +19,10 @@ website:
         text: Publication
       - href: teaching.qmd
         text: Teaching
-      - href: team.qmd
-        text: Award & Service
+      - href: award.qmd
+        text: Award 
+      - href: service.qmd
+        text: Service
       - href: contact.qmd
         text: Contact
       #- text: "More"
