@@ -4,16 +4,21 @@ project:
   
 website:
   title: "Chenglong Wang"
+  page-footer: 
+    right: "Copyright 2023, Chenglong Wang"
+    background: light
   navbar:
    right:
       - href: index.qmd
         text: Home
-      - href: blog.qmd
-        text: Blog
-      - href: research.qmd
+      # - href: blog.qmd
+      #   text: Blog
+      - href: Research.qmd
         text: Project
       - href: publication.qmd
         text: Publication
+      - href: teaching.qmd
+        text: Teaching
       - href: team.qmd
         text: Award & Service
       - href: contact.qmd
@@ -26,14 +31,14 @@ website:
       #   href: https://github.com/my_user_name
       # - icon: twitter
       #   href: https://twitter.com/my_user_name
-      - icon: google shcolar
-        href: https://twitter.com/my_user_name
+      # - icon: google shcolar
+      #   href: https://twitter.com/my_user_name
       # - icon: researchgate
       #   href: https://twitter.com/my_user_name
      
 format:
   html:
-    theme: default
+    theme: litera
     css: styles.css
     toc: true
 
