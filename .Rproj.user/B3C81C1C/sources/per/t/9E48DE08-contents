@@ -2,14 +2,17 @@
 title: "Chenglong Wang"
 about: 
   template: jolla
-  image: images/image.jpg
-  links: 
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/
-    - icon: github
-      text: Github
+  image: images/1.jpg
+  links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com/
+    - icon: University of Toronot
+      text: Email
       href: https://github.com/
+    - icon: google scholar
+      text: google scholar
+      href: https://twitter.com/
 ---
 
 is multidisciplinary researecher

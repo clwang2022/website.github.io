@@ -3,7 +3,7 @@
     "path": "D:/R/Rwork/website/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2332156606",
     "contents": "",
     "dirty": false,
     "created": 1671851311656.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "3,17",
+        "cursorPosition": "9,33",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673752985,
+    "lastKnownWriteTime": 1673758422,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673752985139,
+    "last_content_update": 1673758422542,
     "read_only": false,
     "read_only_alternatives": []
 }
