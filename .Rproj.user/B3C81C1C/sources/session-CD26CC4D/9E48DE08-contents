@@ -4,8 +4,8 @@ about:
   template: trestles
   image: images/19.jpg
   links:
-    - icon: google scholar
-      text: google scholar
+    - icon: Google Scholar
+      text: Google Scholar
       href: https://scholar.google.ca/citations?hl=en&user=9OhDiLoAAAAJ
     - icon: researchgate
       text: ResearchGate
