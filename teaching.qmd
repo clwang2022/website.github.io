@@ -4,7 +4,7 @@ listing:
   type: default
   contents: posts
   #sort: "date desc"
-  categories: False
+  categories: True
 ---
 
 ### University of Toronto

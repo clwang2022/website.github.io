@@ -2,7 +2,7 @@
 title: "Chenglong Wang"
 about: 
   template: trestles
-  image: images/21.jpg
+  image: images/19.jpg
   links:
     - icon: google scholar
       text: google scholar
