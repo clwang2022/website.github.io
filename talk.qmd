@@ -6,6 +6,8 @@ listing:
   categories: False
 ---
 
+### Presentation and talk
+
 *WANG Chenglong*. "Comparative analysis of accessibility between general hospitals and specialized hospitals based on two-step floating catchment area method: a case of Shanghai". Presentation at Spatiotemporal Innovation Workshop, sponsored by Future Data Lab, Center for Geographical Analysis at Harvard University, Spatial Temporary Innovation Center. 2022.
 
 *WANG Chenglong*. "How Subjective Economic Status Matters: The Reference-Group Effect on Migrants' Settlement Intention in Urban China". Presentation at 11th International Conference on Population Geographies, Tokyo, Japan. 2022.
