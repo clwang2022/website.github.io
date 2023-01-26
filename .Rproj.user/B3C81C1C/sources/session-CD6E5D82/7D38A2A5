@@ -1,14 +1,14 @@
 {
-    "id": "ACFF032B",
-    "path": "D:/R/Rwork/website/talk.qmd",
-    "project_path": "talk.qmd",
+    "id": "7D38A2A5",
+    "path": "D:/R/Rwork/website/Publication.qmd",
+    "project_path": "Publication.qmd",
     "type": "quarto_markdown",
-    "hash": "2099978076",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1673810505021.0,
+    "created": 1673804333507.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 7,
     "properties": {
         "rmdVisualMode": "false",
         "rmdVisualWrapConfigured": "true",
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "8,0",
+        "cursorPosition": "8,166",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "48:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1673925858,
+    "lastKnownWriteTime": 1673835978,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1673925858587,
+    "last_content_update": 1673835978028,
     "read_only": false,
     "read_only_alternatives": []
 }

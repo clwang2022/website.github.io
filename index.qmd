@@ -15,7 +15,7 @@ about:
     #   href: https://twitter.com/chenglong_clw  
 ---
 
-I am a postdoctoral fellow at Dalla Lana school of public health, University of Toronto. My research interests straddle environmental health, migration studies, urban and regional planning. I'm an interdisciplinary researcher in population, health and planning with expertise in spatial analysis and quantitative methods. My research goal is to build up the power of interdisciplinary study across public health, geography, and implementation science in advancing the knowledge and promoting the development of healthy city.
+I am a postdoctoral fellow at Dalla Lana school of public health, University of Toronto. My research interests straddle environmental health, population and migration, urban and regional planning. I'm an interdisciplinary researcher in population, health and planning with expertise in spatial analysis and quantitative methods. My research goal is to build up the power of interdisciplinary study across geography, environment health, and implementation science in advancing the knowledge and promoting the development of healthy city.
 
 ## Education
 
